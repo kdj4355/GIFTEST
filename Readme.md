@@ -8,11 +8,9 @@ GIF 로드 테스트용 리드미입니다.
 
 ![](images/회원가입.gif)
 
-
-
 소셜로그인
 
-![](C:\Users\kdj43\Desktop\새%20폴더\GIFTEST\images\소셜%20로그인.gif)
+![](images/소셜%20로그인.gif)
 
 비밀번호 찾기
 
@@ -29,3 +27,7 @@ GIF 로드 테스트용 리드미입니다.
 로드맵 추가
 
 ![](images/로드맵%20추가.gif)
+
+테스트
+
+![](images/test.gif)
